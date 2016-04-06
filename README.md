@@ -8,4 +8,4 @@ How To Use
 * cucumber features
 * rspec spec/
 
-Happy Tesging :)
+Happy Testing :)
