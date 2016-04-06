@@ -1,0 +1,6 @@
+source 'https://rubygems.org'
+gem 'rspec'
+gem 'debugger'
+gem 'bundler'
+gem 'cucumber-rails'
+gem 'capybara'
